@@ -13,6 +13,7 @@ My interest in computer science has sparked a passion for cybersecurity, and I a
 #### [SQL queries Lab](https://github.com/Zaki661/Applying-filters-to-SQL-queries-Lab)
 #### [Python Algorithm Lab](https://github.com/Zaki661/Python-Lab/blob/main/README.md)
 #### [Linux Lab](https://github.com/Zaki661/Linux-Lab)
+#### [Scope, goals, and risk assessment report](https://github.com/Zaki661/Scope-goals-and-risk-assessment-report)
 
 <h2>📃Certifications</h2>
 
