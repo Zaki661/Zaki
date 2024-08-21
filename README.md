@@ -12,10 +12,8 @@ My interest in computer science has sparked a passion for cybersecurity, and I a
 
 #### [SQL queries Lab](https://github.com/Zaki661/Applying-filters-to-SQL-queries-Lab)
 #### [Python Algorithm Lab](https://github.com/Zaki661/Python-Lab/blob/main/README.md)
-#### [Python Algorithm Lab]()
+#### [Linux Lab](https://github.com/Zaki661/Linux-Lab)
 
 <h2>📃Certifications</h2>
 
 #### [Google Cybersecurity Professional Certificate](https://1drv.ms/b/c/ef83af08caa39f1f/EfusTmE8L4pBr0MIIXGxIIkBouagMK50KTJn05oXoX7gUA?e=ZyWtNm)
-
-#### [Python Algorithm Lab](https://github.com/Zaki661/Python-Lab/blob/main/README.md)
