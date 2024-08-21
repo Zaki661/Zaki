@@ -12,5 +12,6 @@ My interest in computer science has sparked a passion for cybersecurity, and I a
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Applying filters to SQL queries</b>
 
+
 <h2>📃Certifications</h2>
 [Google Cybersecurity Professional Certificate](https://1drv.ms/b/c/ef83af08caa39f1f/EfusTmE8L4pBr0MIIXGxIIkBouagMK50KTJn05oXoX7gUA?e=ZyWtNm)
