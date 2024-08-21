@@ -1,7 +1,6 @@
 # Hello, I'm Zaki
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaki-shuriye-9aaa5427a/)
 
-
 I'm a recent Google Cybersecurity Professional Certificate graduate with hands-on experience in threat analysis and incident response. I'm eager to apply my skills to protect digital assets and explore professional opportunities in cybersecurity.
 
 ## Objective
@@ -12,6 +11,6 @@ My interest in computer science has sparked a passion for cybersecurity, and I a
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Applying filters to SQL queries</b>
 
-
+### [SQL queries Lab](https://youtu.be/7eJexJVCqJo)
 <h2>📃Certifications</h2>
 [Google Cybersecurity Professional Certificate](https://1drv.ms/b/c/ef83af08caa39f1f/EfusTmE8L4pBr0MIIXGxIIkBouagMK50KTJn05oXoX7gUA?e=ZyWtNm)
